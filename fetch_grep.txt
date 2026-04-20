@@ -1,0 +1,2 @@
+13155:            return fetch(url, requestInit);
+13159:            const response = await fetch(url, requestInit);
